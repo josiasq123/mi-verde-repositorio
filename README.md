@@ -1,5 +1,6 @@
 # dia verde logrado
 # hoy hice otra contribucion
-# hola a todoz
-# ola buenaz nocez
-# zlaudoz a open zource
+# hola a todos
+# hola buenas noches
+# saludos a open zource
+# saludos otra vez
